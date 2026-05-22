@@ -1,6 +1,6 @@
 "use client";
 
-import App from '../components/App';
+import App from '../client';
 
 export default function Home() {
   return <App />;
