@@ -1,6 +1,5 @@
 import React from 'react';
-import App from '../components/App'; // ou le chemin exact où se trouve ton fichier App
-
+import App from '../client'; // ou '../dashboard-client' selon ton fichier principal
 export const metadata = {
   title: 'révise.',
   description: 'Application de révision scolaire avec IA',
