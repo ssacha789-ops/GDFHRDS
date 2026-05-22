@@ -1,5 +1,5 @@
 import React from 'react';
-import App from '@/App';
+import App from '../components/App'; // ou le chemin exact où se trouve ton fichier App
 
 export const metadata = {
   title: 'révise.',
